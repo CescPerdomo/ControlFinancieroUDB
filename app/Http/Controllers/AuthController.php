@@ -1,6 +1,0 @@
-
-
-
-
-//para logearse
-
